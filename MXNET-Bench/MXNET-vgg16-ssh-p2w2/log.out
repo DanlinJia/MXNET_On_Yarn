@@ -1,0 +1,14 @@
+[13:07:10] src/io/iter_image_recordio_2.cc:172: ImageRecordIOParser2: data/cifar/train.rec, use 4 threads for decoding..
+[13:07:10] src/io/iter_image_recordio_2.cc:172: ImageRecordIOParser2: data/cifar/train.rec, use 4 threads for decoding..
+[13:07:11] src/io/iter_image_recordio_2.cc:172: ImageRecordIOParser2: data/cifar/test.rec, use 4 threads for decoding..
+[13:07:11] src/io/iter_image_recordio_2.cc:172: ImageRecordIOParser2: data/cifar/test.rec, use 4 threads for decoding..
+INFO:root:Epoch[0] Batch [49]	Speed: 12.675371 samples/sec	accuracy=0.099375, top_k_accuracy_5=0.496875
+INFO:root:Epoch[0] Batch [49]	Speed: 12.193670 samples/sec	accuracy=0.103750, top_k_accuracy_5=0.496250
+INFO:root:Epoch[0] Batch [99]	Speed: 12.791602 samples/sec	accuracy=0.094687, top_k_accuracy_5=0.496563
+INFO:root:Epoch[0] Batch [99]	Speed: 12.329470 samples/sec	accuracy=0.103438, top_k_accuracy_5=0.495625
+^C2019-10-01 13:11:59,287 INFO Stop launcher
+141: [/home/labuser/scripts/stopMoni.sh MXNET-vgg16] done
+142: [/home/labuser/scripts/stopMoni.sh MXNET-vgg16] done
+143: [/home/labuser/scripts/stopMoni.sh MXNET-vgg16] done
+144: [/home/labuser/scripts/stopMoni.sh MXNET-vgg16] done
+

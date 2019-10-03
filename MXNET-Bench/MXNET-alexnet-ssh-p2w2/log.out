@@ -1,0 +1,15 @@
+rained=False, use_thumbnail=False, wd=0.0001)
+[13:34:38] src/io/iter_image_recordio_2.cc:172: ImageRecordIOParser2: data/cifar/train.rec, use 4 threads for decoding..
+[13:34:38] src/io/iter_image_recordio_2.cc:172: ImageRecordIOParser2: data/cifar/train.rec, use 4 threads for decoding..
+[13:34:53] src/io/iter_image_recordio_2.cc:172: ImageRecordIOParser2: data/cifar/test.rec, use 4 threads for decoding..
+[13:35:15] src/io/iter_image_recordio_2.cc:172: ImageRecordIOParser2: data/cifar/test.rec, use 4 threads for decoding..
+INFO:root:Epoch[0] Batch [49]	Speed: 6.819389 samples/sec	accuracy=0.099375, top_k_accuracy_5=0.496875
+INFO:root:Epoch[0] Batch [49]	Speed: 6.944919 samples/sec	accuracy=0.104375, top_k_accuracy_5=0.497500
+INFO:root:Epoch[0] Batch [99]	Speed: 6.693240 samples/sec	accuracy=0.103750, top_k_accuracy_5=0.496250
+INFO:root:Epoch[0] Batch [99]	Speed: 6.712088 samples/sec	accuracy=0.094687, top_k_accuracy_5=0.496563
+^C2019-10-01 13:46:39,366 INFO Stop launcher
+141: [/home/labuser/scripts/stopMoni.sh MXNET-alexnet] done
+142: [/home/labuser/scripts/stopMoni.sh MXNET-alexnet] done
+143: [/home/labuser/scripts/stopMoni.sh MXNET-alexnet] done
+144: [/home/labuser/scripts/stopMoni.sh MXNET-alexnet] done
+
